@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Campus Building Pathfinder</string>
+
+    <string-array name="buildingList">
+        <item>-</item>
+        <item>Burke Center</item>
+        <item>Nick Building</item>
+        <item>Reed Union</item>
+        <item>Witkowski Building</item>
+        <item>Junker Center</item>
+        <item>Lilley Library</item>
+    </string-array>
+
+    <string-array name="floorList_burke">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="floorList_reed">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="floorList_nick">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="floorList_witkowski">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="floorList_junker">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="floorList_lilley">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="floorList_null">
+        <item>Please select a building</item>
+    </string-array>
+
+</resources>
