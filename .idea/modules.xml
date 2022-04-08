@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Campus_Building_Pathfinder_(Penn_State_Behrend).iml" filepath="$PROJECT_DIR$/.idea/modules/Campus_Building_Pathfinder_(Penn_State_Behrend).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Campus_Building_Pathfinder_(Penn_State_Behrend).app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Campus_Building_Pathfinder_(Penn_State_Behrend).app.iml" />
+    </modules>
+  </component>
+</project>
