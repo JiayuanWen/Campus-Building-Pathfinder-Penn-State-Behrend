@@ -8,3 +8,11 @@ The objective of Campus Building Pathfinder(CBP) is to design and create an inte
 
 ## Software Application
 Provide interactive floor plans to help students, staffs, and visitors navigate inside campus buildings easily and quickly, reduce inconveniences by saving time and minimize confusion.
+<br>
+<br>
+
+## Install Instruction
+1. Download the apk from [here](https://github.com/JiayuanWen/Campus-Building-Pathfinder-Penn-State-Behrend/releases)
+2. Move the apk into your Android device (ex. phone, tablet, or Emulator)
+4. Go to your device's settings and allow apps from unknown sources
+5. Find the apk in your device then click on it to start the installation
