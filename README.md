@@ -12,7 +12,7 @@ Provide interactive floor plans to help students, staffs, and visitors navigate 
 <br>
 
 ## Install Instruction
-1. Download the apk from [here](https://github.com/JiayuanWen/Campus-Building-Pathfinder-Penn-State-Behrend/releases)
+1. Download the latest apk from [here](https://github.com/JiayuanWen/Campus-Building-Pathfinder-Penn-State-Behrend/releases)
 2. Upload the apk to your Android device
 4. Go to your device's settings and allow install apps from unknown sources
 5. Find the apk in your device, run it to start the installation
