@@ -1,5 +1,7 @@
 # Campus Building Pathfinder (Penn State Behrend)
 
+![alt text](./readme_materials/screencombined_readme.png)
+
 ## Proposal
 Due to the complexity of floors at Penn State Behrend campus buildings, despite the installation of floor plans and guides, navigation can still be a challenge to both new and veteran students and staffs, and has caused many problems, such as arriving late for appointments or classes, unable to locate facilities, etc. Our primary proposal is to make navigation inside campus buildings easier for everyone using modern technologies.
 
@@ -8,8 +10,6 @@ The objective of Campus Building Pathfinder(CBP) is to design and create an inte
 
 ## Software Application
 Provide interactive floor plans to help students, staffs, and visitors navigate inside campus buildings easily and quickly, reduce inconveniences by saving time and minimize confusion.
-<br>
-<br>
 
 ## Install Instruction
 1. Download the latest apk from [here](https://github.com/JiayuanWen/Campus-Building-Pathfinder-Penn-State-Behrend/releases)
