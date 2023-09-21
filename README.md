@@ -1,4 +1,4 @@
-# Campus Building Pathfinder (Penn State Behrend)
+# Campus Building Pathfinder (Penn State Erie)
 
 ![alt text](./readme_materials/thumb.png)
 
