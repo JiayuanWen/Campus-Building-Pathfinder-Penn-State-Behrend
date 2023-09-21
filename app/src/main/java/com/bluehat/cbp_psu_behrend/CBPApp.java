@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.text.InputType;
 import android.view.View;
+import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageButton;
@@ -83,6 +84,7 @@ public class CBPApp extends AppCompatActivity {
 
         PathFinder pathFinder = new PathFinder(startingRoom, endingRoom, submit, text);
 
+        // Dropdown menus
         Spinner buildingList = findViewById(R.id.buildingSelection);
         Spinner floorSelection = findViewById(R.id.floorSelection);
 

@@ -12,7 +12,7 @@
         android:layout_height="531dp"
         android:layout_alignParentBottom="true"
 
-        android:text="Campus Building Pathfinder (Penn State Behrend)\n\nVersion:     0.0.5"
+        android:text="Campus Building Pathfinder (Penn State Behrend)\n\nVersion:     0.0.6"
         android:textSize="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

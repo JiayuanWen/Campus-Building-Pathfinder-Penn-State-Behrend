@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Campus_Building_Pathfinder_(Penn_State_Behrend).iml" filepath="$PROJECT_DIR$/.idea/modules/Campus_Building_Pathfinder_(Penn_State_Behrend).iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Campus_Building_Pathfinder_(Penn_State_Behrend).app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Campus_Building_Pathfinder_(Penn_State_Behrend).app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Campus_Building_Pathfinder_(Penn_State_Behrend).app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Campus_Building_Pathfinder_(Penn_State_Behrend).app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Campus_Building_Pathfinder_(Penn_State_Behrend).app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Campus_Building_Pathfinder_(Penn_State_Behrend).app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Campus_Building_Pathfinder_(Penn_State_Behrend).app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Campus_Building_Pathfinder_(Penn_State_Behrend).app.unitTest.iml" />
     </modules>
   </component>
 </project>
