@@ -11,7 +11,7 @@ The objective of Campus Building Pathfinder(CBP) is to design and create an inte
 -->
 
 ## Software Application
-Provide interactive floor plans to help students, staffs, and visitors navigate inside campus buildings easily and quickly, reduce inconveniences by saving time and minimize confusion.
+Provide interactive floor plans to help students, staffs, and visitors navigate inside Penn State Erie campus buildings easily and quickly, reduce inconveniences by saving time and minimize confusion.
 
 ## Functions
 * **Building and floor selection**: You can select your current building and floor to show the floor plan of your current position.
